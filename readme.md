@@ -15,4 +15,11 @@ I have developed this applications using a variety of Microsoft technologies bas
 * Menu Recommendation: Uses the learned **Azure ML** expectation Model using the user's previous order information.
 * REST API Hosting : **Azure App Service** is used to execute Azure ML service
 * Ordering Information: Workflow is configured using **Microsoft PowerApp** and **Microsoft Flow**.
-	
+
+## Screenshot
+
+![Intro](https://github.com/options/dxcafe/blob/master/dxcafe1.png)
+![Order](https://github.com/options/dxcafe/blob/master/dxcafe2.png)
+
+## Azure ML Expectation Model
+![Azure Model](https://github.com/options/dxcafe/blob/master/ml%20model.png)
