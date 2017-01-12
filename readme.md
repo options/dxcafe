@@ -10,9 +10,9 @@ I have developed this applications using a variety of Microsoft technologies bas
 * When the day ends, the order list is delivered to the manager.
 
 ## This application was developed using the following technologies:
-* Client Application: using **WPF**.
+* Client Application: Use **WPF**.
 * Face Recognition: Use **Cognitive Service** to distinguish users face compared to previously registered faces.
-* Menu Recommendation: Uses the learned **Azure ML** expectation Model using the user's previous order information.
+* Menu Recommendation: Use the learned **Azure ML** expectation Model using the user's previous order information.
 * REST API Hosting : **Azure App Service** is used to execute Azure ML service
 * Ordering Information: Workflow is configured using **Microsoft PowerApp** and **Microsoft Flow**.
 
